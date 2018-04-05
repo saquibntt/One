@@ -1,1 +1,5 @@
-My Project
+Prayer timing for Muslims on RaspberryPi
+
+This is the first project we are doing with QT as its cross platform and has easy to configure functionalities. 
+
+The data is fetched from the repository and read by the the funtion in QT creator to display it on screen.
